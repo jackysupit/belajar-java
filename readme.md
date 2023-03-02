@@ -1,0 +1,15 @@
+Untuk menjalankan program:
+
+1 jalankan mvn clean install
+mvn clean install
+
+2 jalankan jar 
+java -jar target/encryptor-1.jar
+
+3 akan menghasilkan string encrypted
+contoh:
+R7ICn1wej9ejywDBXLvI7Z85KHZYjeX4CseBInzuBKH6DRoXuXV7YtvyRPuy0iTB7BO8ukWjZyAGS9ctNji1mOuFaxq6qPV2D7Kd1XW1qZjmlq42PwSFvNoUY+8uSDEAiIZ6QCx5+Ez2PQ/onSzpqxIArG5DyKEcGSoT4GdmuhtbfrF2TkuCDXX97culBdvemw51AvOtB6szZLgonWEgEP1x2QhiFaIEvegLEPDdn0l8kHrEWx9qBbZXRpgz7WHRQEcEgffywBNjvGo6q8fk2Rq11xodsKgSn2fskvAcZZ87BJXZh9cQRJkwlJA2KBs9ZaSEjdzqda33muyPMgPq0g==%  
+
+untuk merubah menjadi json (tapi masih error)
+
+4 buka file App.java
